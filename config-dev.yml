@@ -3,5 +3,7 @@ server:
 spring:
   application: 
      name: 1234567
+config:
+  info: "version=2"
  
 
